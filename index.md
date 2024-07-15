@@ -1,5 +1,5 @@
 
-<img src="images/IMG_0743.jpg?raw=true"/>
+<img src="images/IMG_0743.JPG?raw=true"/>
 
 
 ## Previous Work
