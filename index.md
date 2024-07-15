@@ -1,16 +1,15 @@
-## Portfolio
 
+
+
+## [About Me](/sample_page)
+## Previous Work
 ---
-
-
-
-[About Me](/sample_page)
-### Category Name 1 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Human Centered Design Process: designing a farming app for rural Kenyan farmers
+[Link to project website](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### App Desigin: Student Cooking App
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
