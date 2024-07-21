@@ -4,17 +4,17 @@ In this project, I prototyped a recipe searching app in Adobe XD, aimed at stude
 #### The Process:
 1. "Blue sky" brainstorming
 2. Decide on a recipe app aimed at MSU students.
-3. Competitive analysis
+3. [Competitive Analysis](/pdf/Competitive_analysis.pdf)
 4. Low fidelity paper prototype
 5. User Persona
 6. Video Prototype
 7. High-fidelity prototype in Adobe XD
 
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+</video>
 
 
-https://example.com/movie.MP4
 
-
-[Competitive Analysis](/pdf/Competitive_analysis.pdf)
 
 
