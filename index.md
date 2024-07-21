@@ -5,7 +5,7 @@
 ## Previous Work
 ---
 ### Human Centered Design Process: designing a farming app for rural Kenyan farmers
-[Learn more](/foodapp.md)
+[Learn more](/488.md)
 <img src="images/488Poster.png?raw=true"/>
 
 ---

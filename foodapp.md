@@ -1,14 +1,22 @@
-## This can be your internal website page / project page
+
+#### Food App:
+In this project, I prototyped a recipe searching app in Adobe XD, aimed at students who want to cook with certain ingredients. 
+#### The Process:
+1. "Blue sky" brainstorming
+2. Decide on a recipe app aimed at MSU students.
+3. Competitive analysis
+4. Low fidelity paper prototype
+5. User Persona
+6. Video Prototype
+7. High-fidelity prototype in Adobe XD
 
 
-[Link to offical project website](/pdf/sample_presentation.pdf)
 
-#### About the course:
-MI 488 sponsored by the Mozilla Foundation for responsible computing. 
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+</video>
 
 
-#### What I did:
-Followed the human centered design process to prototype an app that alows farmers to access market and crop-growing information, and buy and sell produce online.
+[Competitive Analysis](/pdf/Competitive_analysis.pdf)
 
-<img src="images/presenting.png?raw=true"/>
 
