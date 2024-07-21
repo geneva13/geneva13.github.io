@@ -12,9 +12,7 @@ In this project, I prototyped a recipe searching app in Adobe XD, aimed at stude
 
 
 
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-</video>
+https://example.com/movie.MP4
 
 
 [Competitive Analysis](/pdf/Competitive_analysis.pdf)
