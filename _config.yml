@@ -1,12 +1,13 @@
-title: Geneva Jacobs # your name (or website title) here
-logo: "/images/circle2.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Geneva Jacobs
+logo: "/images/circle2.png?raw=true" # your main logo
+additional_logo: "/images/gj.png?raw=true" # your additional logo
+description: >
   Hi, I'm Geneva Jacobs, a Senior at Michigan State University studying Information Science with a focus of Human Centered Technology. I have minors in Graphic Design and IT.
   <br><br>
 
   <br><br>
   <a href="https://www.linkedin.com/in/geneva-jacobs-2a5412264/">View My LinkedIn Profile</a> 
-  
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme

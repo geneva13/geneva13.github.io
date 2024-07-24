@@ -10,10 +10,10 @@ In this project, I prototyped a recipe searching app in Adobe XD, aimed at stude
 6. Video Prototype
 7. High-fidelity prototype in Adobe XD
 
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+<video width="600" controls>
+  <source src="/images/movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-
 
 
 
