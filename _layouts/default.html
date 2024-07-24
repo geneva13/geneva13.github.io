@@ -24,12 +24,9 @@
       <header>
          <div style="display: flex; align-items: center;">
             {% if site.logo %}
-            <img src="{{ site.logo | relative_url }}" alt="Main Logo" style="width: 50px; height: 50px; margin-right: 10px;">
+            <img src="{{ site.logo | relative_url }}" alt="Main Logo" style="width: 50px; height: 50px;">
             {% endif %}
             <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-            {% if site.additional_logo %}
-            <img src="{{ site.additional_logo | relative_url }}" alt="Additional Logo" style="width: 50px; height: 50px; margin-left: 10px;">
-            {% endif %}
          </div>
          <p>{{ site.description | default: site.github.project_tagline }}</p>
          {% if site.github.is_project_page %}
