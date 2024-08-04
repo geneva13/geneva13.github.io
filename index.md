@@ -9,19 +9,23 @@
 <img src="images/488Poster.png?raw=true"/>
 
 ---
-### App Desigin: Student Cooking App
+### App Design: Student Cooking App
 [Learn more](/foodapp.md)
 <img src="images/Universityapp.png?raw=true"/>
 
 ---
+### App Design: Social Calendar
+[Learn More](/webdesign.md)
+See a collection of my web design projects, created with HTML 
+<img src="images/socialinviteapp.png?raw=true"/>
+---
 
-### Category Name 2
+### Web Design Projects: HTML
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Sims 4 Blog](http://example.com/)
+- [Planetary Playing Cards](http://example.com/)
+- [Random Name Generator](http://example.com/)
+- [Example Portfolio](http://example.com/)
 
 ---
 
