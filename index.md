@@ -16,16 +16,12 @@
 ---
 ### App Design: Social Calendar
 [Learn More](/webdesign.md)
-See a collection of my web design projects, created with HTML 
 <img src="images/socialinviteapp.png?raw=true"/>
 ---
 
-### Web Design Projects: HTML
-
-- [Sims 4 Blog](http://example.com/)
-- [Planetary Playing Cards](http://example.com/)
-- [Random Name Generator](http://example.com/)
-- [Example Portfolio](http://example.com/)
+### Collection of Web Design Projects: HTML
+See a collection of my web design projects, created with HTML 
+<img src="images/simblog.png"/>
 
 ---
 
